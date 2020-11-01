@@ -6,12 +6,18 @@ import { AppComponent } from './app.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HomeComponent } from './components/home/home.component';
 import { CertifiedComponent } from './components/certified/certified.component';
+import { TraceComponent } from './trace/trace.component';
+import { RegisterComponent } from './register/register.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    CertifiedComponent
+    CertifiedComponent,
+    TraceComponent,
+    RegisterComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
