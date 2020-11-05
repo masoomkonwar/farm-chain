@@ -1,0 +1,9 @@
+Functional details : 
+
+The front-end of the web app is completely functional.
+To test it in the local server, follow the steps given in install.txt and run the server and then run 127.0.0.1 in your browser to see the desired output. 
+On entering the site, the user-interface depending upon one of the four categories of users will appear (as mentioned in the Problem Statement ppt presentation send via email).
+Then the user will be able to navigate through the web app depending upon its needs.
+
+Non-functional details : 
+The .sol code file for the blockchain is not compiling due to some errors. So the complete demonstration is not completed in the code. Due to this the details regarding the transactions cannot be updated and validiated. 
